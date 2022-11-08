@@ -1,0 +1,25 @@
+.site-footer {
+	background-color: #0c0c0c;
+	text-align: center;
+	color: aliceblue;
+	margin: 10px 0;
+	padding: 10px 0;
+}
+
+#social-wrapper {
+	text-align: center;
+}
+
+/*Social Media Icons*/
+.social-wrapper {
+	text-align: center;
+}
+
+.social-wrapper ul li {
+	display: inline;
+	margin: 0 5px;
+}
+
+.footer-nav p {
+	text-align: center;
+}
