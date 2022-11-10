@@ -13,8 +13,6 @@
 
 ## Editions
 - [Prodigy](https://github.com/shalomtash/Prodigy) : written with Vanilla JS and jQuery
-- [Prodigy_Flask](https://github.com/shalomtash/Prodigy_flask) : made with Flask framework
-
 
 ## Usage
 See [landing page](https://Prodigy.netlify.app)
