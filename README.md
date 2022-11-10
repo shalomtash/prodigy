@@ -24,9 +24,9 @@ This application is open for public contribution.
 
 ## Screenshots
 <img src="img/login_html.png" width=70% height=70%/>
+<img src="img/index_html.png" width=70% height=70%/>
 <img src="img/books.png" width=70% height=70%/>
 <img src="img/previewer.png" width=70% height=70%/>
 
-
 ## Author
-[shalomtash] is a software engineer interested in using technology and capable leadership to solve real-world problems. a voracious reader who uses books to explore personal growth and developments in information technology.
+[ shalomtash ] is a software engineer interested in using technology and capable leadership to solve real-world problems. a voracious reader who uses books to explore personal growth and developments in information technology.
