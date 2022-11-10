@@ -29,4 +29,5 @@ This application is open for public contribution.
 ## Author
 A voracious reader who uses books to explore personal growth and developments in information technology.
 a software engineer with an enthusiasm for using technology to solve real-world issues and exceptional leadership motivated by a sense of purpose. I firmly believe that technology can impact society, if it is implemented properly.
-by:[shalomtash]
+By:
+[shalomtash]()
