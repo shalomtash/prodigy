@@ -8,13 +8,13 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: 'Jost', sans-serif;
-    background: linear-gradient(to bottom, #05b34d, #05f5cd);
+    background: linear-gradient(to bottom, #0590b3, #05b9f5);
 }
 
 .main {
     width: 350px;
     height: 500px;
-    background: red;
+    background: rgb(255, 0, 179);
     overflow: hidden;
     background: url("https://doc-08-2c-docs.googleusercontent.com/docs/securesc/68c90smiglihng9534mvqmq1946dmis5/fo0picsp1nhiucmc0l25s29respgpr4j/1631524275000/03522360960922298374/03522360960922298374/1Sx0jhdpEpnNIydS4rnN4kHSJtU1EyWka?e=view&authuser=0&nonce=gcrocepgbb17m&user=03522360960922298374&hash=tfhgbs86ka6divo3llbvp93mg4csvb38") no-repeat center/ cover;
     border-radius: 10px;
@@ -32,7 +32,7 @@ body {
 }
 
 label {
-    color: #fff;
+    color: rgb(26, 25, 25);
     font-size: 2.3em;
     justify-content: center;
     display: flex;
@@ -45,7 +45,7 @@ label {
 input {
     width: 60%;
     height: 20px;
-    background: #e0dede;
+    background: #e0dfde;
     justify-content: center;
     display: flex;
     margin: 20px auto;
@@ -62,7 +62,7 @@ button {
     justify-content: center;
     display: block;
     color: #fff;
-    background: #05f5cd;
+    background: #70716c;
     font-size: 1em;
     font-weight: bold;
     margin-top: 20px;
@@ -74,7 +74,7 @@ button {
 }
 
 button:hover {
-    background: #05b34d
+    background: #c1e0ce
 }
 
 .login {
@@ -86,7 +86,7 @@ button:hover {
 }
 
 .login label {
-    color: #05b34d;
+    color: #7f8682;
     transform: scale(.6);
 }
 

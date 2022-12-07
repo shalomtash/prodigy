@@ -5,11 +5,11 @@
 - [Live Demo](https://Prodigy.netlify.app/)
     - Login credentials:
         - Email - marisolfluffy@gmail.com
-        - Password - Bentley1
+        - Password - Bentley1 /Random
 - [Blog post]()
 
 ## Prodigy Web Architecture
-<img src="img/web app architecture.png" width=70% height=70%/>
+<img src="../img/web app architecture.png" width=70% height=70%/>
 
 ## Editions
 - [Prodigy](https://github.com/shalomtash/Prodigy) : written with Vanilla JS and jQuery
@@ -18,7 +18,7 @@
 See [landing page](https://Prodigy.netlify.app)
 
 ## Contribution
-This application is open for public contribution. 
+This is a work in progress insights will be highly appreciated. 
 
 ## Screenshots
 <img src="img/login_html.png" width=70% height=70%/>
@@ -27,7 +27,8 @@ This application is open for public contribution.
 <img src="img/previewer.png" width=70% height=70%/>
 
 ## Author
-A voracious reader who uses books to explore personal growth and developments in information technology.
-a software engineer with an enthusiasm for using technology to solve real-world issues and exceptional leadership motivated by a sense of purpose. I firmly believe that technology can impact society, if it is implemented properly.
+A voracious reader who uses books to explore personal growth and developments in information technology and other areas.
+A software engineer with an enthusiasm for using technology to solve real-world issues and exceptional leadership motivated by a sense of purpose. I firmly believe that technology can impact society, if it is implemented properly.
 By:
 [shalomtash]()
+github [shalomtash]()
