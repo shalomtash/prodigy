@@ -31,4 +31,4 @@ A voracious reader who uses books to explore personal growth and developments in
 A software engineer with an enthusiasm for using technology to solve real-world issues and exceptional leadership motivated by a sense of purpose. I firmly believe that technology can impact society, if it is implemented properly.
 By:
 [shalomtash]()
-github [shalomtash]()
+github [https://github.com/shalomtash]()
